@@ -1,0 +1,41 @@
+.name
+{
+    border: 2px solid red; 
+    margin-left: 25%; 
+    margin-top: 50px;
+    height: 50px; 
+    width: 678px; 
+    text-align: center;
+}
+.img
+{
+    margin-left: 25% ;
+    margin-top: 5px;
+    border: 2px solid red;
+    width: 678px; height: 500px ; 
+    display: block; 
+}
+.price
+{
+    border: 2px solid red; 
+    margin-left: 10px; 
+    margin-top: -65px ; 
+    width: 200px ;
+}
+.menu
+{
+    border: 2px solid red; 
+    margin-left: 560px ; 
+    margin-top: -265px ;
+    padding: 10px; 
+    width: 77px ;
+    display:block
+}
+.new
+{
+    border: 2px solid red;
+    margin-left: 545px; 
+    margin-top: -495px;
+    height: 120px; 
+    width: 120px;
+}
